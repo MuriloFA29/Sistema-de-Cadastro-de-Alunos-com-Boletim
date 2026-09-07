@@ -126,17 +126,3 @@ tests/test_sistema.py ...........                                        [100%]
 
 ============================= 22 passed in 0.06s ==============================
 ```
-
----
-
-## 🗺️ Roadmap de Evolução Futura
-
-- [ ] **Interface Web / REST API**: Exposição dos serviços com `FastAPI` e documentação Swagger automática.
-- [ ] **Persistência Relacional**: Suporte opcional a banco de dados `SQLite` com `SQLAlchemy`.
-- [ ] **Múltiplas Disciplinas**: Associação de notas a matérias curriculares individuais (ex: Matemática, História).
-- [ ] **Exportação de Relatórios**: Geração de relatórios de desempenho da turma em formato CSV e PDF.
-
----
-
-## 👤 Autor
-Desenvolvido como projeto de portfólio para demonstrar padrões de arquitetura, POO e código limpo em Python.
