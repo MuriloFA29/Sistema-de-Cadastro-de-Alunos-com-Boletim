@@ -3,7 +3,6 @@
 [![Python](https://img.shields.io/badge/Python-3.12+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Pytest](https://img.shields.io/badge/Tests-Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)](https://docs.pytest.org/)
 [![POO](https://img.shields.io/badge/Paradigma-POO_Idiom%C3%A1tico-blueviolet?style=for-the-badge)]()
-[![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen?style=for-the-badge)]()
 
 Aplicação em **Python** desenvolvida com foco em boas práticas de Engenharia de Software, Programação Orientada a Objetos (POO) idiomática, tratamento defensivo de exceções e persistência de dados em JSON.
 
